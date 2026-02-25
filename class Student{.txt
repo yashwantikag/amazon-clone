@@ -1,0 +1,15 @@
+class Student{
+    String name;
+    int rollnumber;  
+    void set Detail(String Studentname,int studentrollno)
+    {
+        name = Student name;
+        rollnumber = Student rollnumber;
+    }
+    void display details()
+    {
+
+    }
+    Student.out.println("Student Name:") 
+    }
+}
